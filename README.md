@@ -23,6 +23,11 @@
 * AI/ML
 * Stable Diffusion
 
+## 😎 Learning
+* Rust
+* System design
+* Generative AI
+
 ## Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23323330.svg?style=for-the-badge&logo=rust&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  
@@ -63,13 +68,8 @@
 ## Experience
  * I work at [**Devsinc**](https://devsinc.com/) as a software engineer using Javascrip, Typescript and Flutter, getting more creative, efficient and innovative day by day. 
  * Worked on 🔭 building [**BullBD**](https://play.google.com/store/apps/details?id=com.bullbd.stocksapp) using Flutter and Node.js and working up on polishing my skills 🌱 in **Programming and Problem Solving**.
- * Learning BlockChain and Web 3.0
+   
 
-## 🏭 My stats
-![Hamza Ahmad's stats](https://stats.dooboo.io/api/github-stats-advanced?login=MHamzaAhmad)
-
-![Hamza's github-trophies](https://stats.dooboo.io/api/github-trophies?login=MHamzaAhmad)
-
-## My contributions (I like me do some open source)
+## My contributions (btw I like to do some open source 😉)
 [![Hamza's github activity graph](https://github-graph.herokuapp.com/graph?username=MHamzaAhmad&area=true&hide_border=true&radius=15&theme=github-compact&hide_title=true&bg_color=020712)](https://github.com/anthonyraf#gh-dark-mode-only)
  
