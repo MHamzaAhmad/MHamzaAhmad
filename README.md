@@ -66,10 +66,8 @@
 * **More on the way, don't worry...😄**
  
 ## Experience
- * I work at [**Devsinc**](https://devsinc.com/) as a software engineer using Javascrip, Typescript and Flutter, getting more creative, efficient and innovative day by day. 
+ * I work at [**Devsinc**](https://devsinc.com/) as a software engineer using Javascript, Typescript and Flutter. While getting more creative, efficient and innovative day by day. 
  * Worked on 🔭 building [**BullBD**](https://play.google.com/store/apps/details?id=com.bullbd.stocksapp) using Flutter and Node.js and working up on polishing my skills 🌱 in **Programming and Problem Solving**.
    
 
-## My contributions (btw I like to do some open source 😉)
-[![Hamza's github activity graph](https://github-graph.herokuapp.com/graph?username=MHamzaAhmad&area=true&hide_border=true&radius=15&theme=github-compact&hide_title=true&bg_color=020712)](https://github.com/anthonyraf#gh-dark-mode-only)
  
