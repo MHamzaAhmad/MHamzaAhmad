@@ -2,10 +2,9 @@
 
 # Muhammad Hamza
 
-Software engineer specializing in building and launching products.<br>
-Robust systems · cloud-native architecture · high-performance APIs.
+**Senior Software Engineer** · Go · TypeScript · cloud-native · AI
 
-**Open to senior remote roles — backend · full-stack · AI (Go · TypeScript)**
+Ships products end to end — **open to senior remote roles** (backend / full-stack / AI)
 
 <sub>Lahore, Pakistan · UTC+5 · remote</sub>
 
@@ -13,96 +12,61 @@ Robust systems · cloud-native architecture · high-performance APIs.
 
 </div>
 
----
+## NOW
 
-`NOW`
+**Senior Software Engineer @ Afterlib** — shipped **VibeSignals** (Meta-ads moderation & analysis) end to end: TypeScript · Hono · full **Cloudflare stack** · **Workers AI** for sentiment and signal extraction.
 
-**Senior Software Engineer @ Afterlib** — built VibeSignals, a Meta-ads moderation and analysis product, end to end with TypeScript and Hono on the full Cloudflare stack (Workers, Workflows, Durable Objects, D1, KV, R2, Queues, Workers AI). AI pulls sentiment out of ad comments and extracts signals — recurring patterns, customer avatars — from the data.
+## SELECTED WORK
 
----
+| Project | Proof | Stack |
+|:--|:--|:--|
+| [Simple Email API](https://simpleemailapi.dev) | high-performance email API, **p50 ≈ 39 ms** | Go · Connect RPC · Tinybird |
+| [Page Report](https://pagereport.app) | landing-page analysis by parallel AI agent swarm, **100+ daily users** | Python · LangChain · Cloud Run |
+| [Researgent](https://researgent.com) | AI LaTeX editor, desktop + web, sandboxed builds | Rust · Tauri · Svelte |
+| [Piosphere](https://piosphere.ai) | infra OS for AI workloads on self-hosted models | Go · Kubernetes · bare metal |
+| [MsgMorph](https://msgmorph.com) | B2B post-signup feedback engine, SDK + plugins | Next.js · NestJS |
+| [Smart Interview Coach](https://smartinterviewcoach.com) | AI interview practice with computer-vision analysis | React · custom CV models |
 
-`SELECTED WORK`
+## OPEN SOURCE
 
-**[Simple Email API](https://simpleemailapi.dev)** — high-performance email API, p50 ≈ 39 ms<br>
-<sub>`Go` · `Connect RPC` · `TanStack Start` · `PostgreSQL` · `Tinybird` · `Redis` · `AWS SES`</sub>
+| Package | What |
+|:--|:--|
+| [better-auth-emails](https://www.npmjs.com/package/better-auth-emails) | **< 1.5 KB** gzipped email plugin for Better Auth — pre-compiled templates, themes, strict types |
+| [vectordb](https://github.com/MHamzaAhmad/vectordb) | vector database in **Go + Rust** (C FFI) — **SIMD**, **HNSW** index |
 
-**[Page Report](https://pagereport.app)** — landing-page analysis by a swarm of parallel AI agents, serving 100+ users daily<br>
-<sub>`Python` · `LangChain` · `GCP Cloud Run`</sub>
+## EXPERIENCE
 
-**[Researgent](https://researgent.com)** — AI-powered LaTeX editor for desktop and web, per-project Docker sandboxes<br>
-<sub>`Rust` · `Tauri` · `Svelte`</sub>
-
-**[MsgMorph](https://msgmorph.com)** — B2B post-signup feedback engine with SDKs and auth-engine plugins<br>
-<sub>`Next.js` · `NestJS`</sub>
-
-**[Piosphere](https://piosphere.ai)** — infrastructure OS for AI workloads (finetuning, agents, benchmarking) on self-hosted models<br>
-<sub>`Go` · `Kubernetes` · `PostgreSQL` · `bare metal`</sub>
-
-**[Smart Interview Coach](https://smartinterviewcoach.com)** — AI-generated interview practice with computer-vision behavior analysis<br>
-<sub>`React` · `custom CV models`</sub>
-
----
-
-`OPEN SOURCE`
-
-**[better-auth-emails](https://www.npmjs.com/package/better-auth-emails)** — &lt;1.5 KB gzipped email plugin for Better Auth: pre-compiled templates, lazy-loaded themes, strict TypeScript types
-
-**[vectordb](https://github.com/MHamzaAhmad/vectordb)** — performant vector database in Go and Rust (via C FFI), with SIMD and an HNSW index
-
----
-
-`EXPERIENCE`
-
-**Afterlib** — Senior Software Engineer · Feb 2026 – present<br>
-**Indie hacking** — Founder · Oct 2025 – Feb 2026 · four shipped products, 100+ signups, first sales<br>
-**Stealth Startup** — Founding Engineer & Team Lead · Oct 2024 – Oct 2025 · MVP → 5 B2B clients and 5,000+ users; led a team of 10<br>
-**Septem Systems** — Senior Software Engineer · Sept 2023 – Oct 2024 · TypeScript, NestJS, and Go microservices<br>
-**Devsinc** — Software Engineer · June 2022 – Sept 2023 · video streaming with Go and Flutter, 22,000+ users<br>
-**Bull BD** — Software Engineer · Sept 2021 – April 2022 · real-time stock-market app, Flutter and Node.js
+| Where | Role | When | Proof |
+|:--|:--|:--|:--|
+| Afterlib | Senior Software Engineer | Feb 2026 – present | VibeSignals delivered end to end |
+| Indie hacking | Founder | Oct 2025 – Feb 2026 | **4 shipped products**, 100+ signups, first sales |
+| Stealth Startup | Founding Engineer & Team Lead | Oct 2024 – Oct 2025 | MVP → **5 B2B clients, 5,000+ users** · led **10 devs** |
+| Septem Systems | Senior Software Engineer | Sept 2023 – Oct 2024 | TypeScript, NestJS & Go microservices · mentoring |
+| Devsinc | Software Engineer | June 2022 – Sept 2023 | video streaming, Go + Flutter, **22,000+ users** |
+| Bull BD | Software Engineer | Sept 2021 – April 2022 | real-time stock-market app, Flutter + Node.js |
 
 <sub>BS Computer Science · University of Engineering and Technology, Lahore</sub>
 
----
+## STACK
 
-`STACK`
+| Domain | Tools |
+|:--|:--|
+| **Languages** | Go · TypeScript · JavaScript · Python · Rust |
+| **Backend** | gRPC · Connect RPC · Hono · NestJS · Fastify · FastAPI · Kafka · RabbitMQ · PostgreSQL · MongoDB · Redis |
+| **Frontend** | React · Next.js · Svelte · TanStack Start · Tailwind CSS · Flutter |
+| **Infra** | AWS · GCP · Cloudflare Workers · Kubernetes · Docker · Terraform · GitHub Actions · on-prem / bare-metal |
+| **AI** | LangChain · Workers AI · agent swarms · LLM pipelines |
 
-**languages** · `Go` `TypeScript` `JavaScript` `Python` `Rust`<br>
-**backend** · `gRPC` `Connect RPC` `Hono` `NestJS` `Express` `Fastify` `FastAPI` `Kafka` `RabbitMQ` `PostgreSQL` `MongoDB` `Redis`<br>
-**frontend** · `React` `Next.js` `Svelte` `TanStack Start` `Tailwind CSS` `Flutter`<br>
-**infra** · `AWS` `GCP` `Cloudflare Workers` `Kubernetes` `Docker` `Terraform` `GitHub Actions` `on-prem / bare-metal`<br>
-**ai** · `LangChain` `Workers AI` `agent swarms` `LLM pipelines`
-
----
-
-`COMMIT LEDGER`
+## COMMIT LEDGER
 
 <img alt="3D contribution graph" src="profile-3d-contrib/profile-contrib.svg" width="100%">
-
-<table align="center">
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MHamzaAhmad&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=f2f2f2&text_color=b0b0b0&icon_color=707070&ring_color=a3a3a3&rank_icon=percentile">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MHamzaAhmad&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=111111&text_color=444444&icon_color=999999&ring_color=404040&rank_icon=percentile">
-        <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MHamzaAhmad&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=111111&text_color=444444&icon_color=999999&ring_color=404040&rank_icon=percentile" width="420">
-      </picture>
-    </td>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MHamzaAhmad&hide_border=true&background=00000000&stroke=333333&ring=a3a3a3&fire=f2f2f2&currStreakNum=f2f2f2&sideNums=f2f2f2&currStreakLabel=b0b0b0&sideLabels=b0b0b0&dates=707070&date_format=M%20j%5B%2C%20Y%5D">
-        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=MHamzaAhmad&hide_border=true&background=00000000&stroke=d4d4d4&ring=404040&fire=111111&currStreakNum=111111&sideNums=111111&currStreakLabel=444444&sideLabels=444444&dates=999999&date_format=M%20j%5B%2C%20Y%5D">
-        <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=MHamzaAhmad&hide_border=true&background=00000000&stroke=d4d4d4&ring=404040&fire=111111&currStreakNum=111111&sideNums=111111&currStreakLabel=444444&sideLabels=444444&dates=999999&date_format=M%20j%5B%2C%20Y%5D" width="420">
-      </picture>
-    </td>
-  </tr>
-</table>
 
 ---
 
 <div align="center">
 <sub>
 
-[`hamza.buzz`](https://hamza.buzz) · [`resume.pdf`](https://hamza.buzz/resume.pdf) · [`llms.txt`](https://hamza.buzz/llms.txt)
+[`hamza.buzz`](https://hamza.buzz) · [`resume.pdf`](https://hamza.buzz/resume.pdf) · AI agents: [`llms.txt`](https://hamza.buzz/llms.txt)
 
 </sub>
 </div>
